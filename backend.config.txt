@@ -1,0 +1,3 @@
+bucket = "pg-badal-tf-state"
+prefix = "terraform/development"
+credentials = "account.json"
